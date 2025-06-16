@@ -1,0 +1,4 @@
+Class and Objects
+class has data/attribute and function/methods
+> code walkthrough
+> attributes get called itself
